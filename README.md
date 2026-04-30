@@ -263,10 +263,4 @@ This project satisfies the assignment requirements for:
 - validations
 - role-based access control
 
-## Important Notes For Evaluation
-
-- Use the seeded admin account to test all admin-only features
-- Use the seeded member accounts to test restricted member behavior
-- If port `5000` is already in use, stop the existing process before starting the backend
-- Replace `JWT_SECRET` with a stronger value before production use
 
