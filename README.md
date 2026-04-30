@@ -116,7 +116,7 @@ Root `.env`
 
 ```env
 PORT=5000
-MONGO_URI=mongodb+srv://adarsh:**********m.d3o2dxx.mongodb.net/****
+MONGO_URI=mongodb_uri
 JWT_SECRET=replace-with-a-strong-secret
 CLIENT_URL=http://localhost:5173
 ```
