@@ -1,0 +1,4 @@
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+◇ injected env (1) from ..\.env // tip: ⌘ suppress logs { quiet: true }
+MongoDB connected to propertyDB
+Team Task Manager API listening on port 5051
